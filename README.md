@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lekanjoy
 - 👀 I’m interested in ...coding 
-- 🌱 I’m currently learning ...HTML and CSS 
+- 🌱 I’m currently learning ...HTML,CSS and JavaScipt 
 - 💞️ I’m looking to collaborate on ...more learning prohects
 - 📫 How to reach me ...alabilekanemmanuel@gmail.com 
 
