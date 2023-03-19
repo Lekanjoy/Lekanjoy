@@ -17,4 +17,4 @@ I'm a Frontend Developer. I love building interactive web pages and solving prob
 
 
 ![Olalekan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lekanjoy&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lekanjoy)](https://github.com/Lekanjoy/github-readme-stats)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lekanjoy)](https://github.com/Lekanjoy/github-readme-stats--->
