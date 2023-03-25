@@ -11,7 +11,7 @@ I'm a Frontend Developer. I love building interactive web pages and solving prob
 - 🌱 My Tech stacks are HTML, CSS, JavaScript, Reactjs, TailWindCSS, Git, and GitHub.
 - 😊 I’m open to Open Source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front Developer(Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing alabilekanemmanuel@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1vrvcJvQ-kTt77otuI1e76A53hGP_97DR/view?usp=share_link) and contact me by emailing alabilekanemmanuel@gmail.com.
 
 ---
 
