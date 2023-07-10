@@ -7,7 +7,7 @@ I'm a Frontend Developer. I love building interactive web pages and solving prob
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at [AltSchool Africa] School of Software Engineering (https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I'm currently studying at [AltSchool Africa School of Software Engineering(https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 My Tech stacks are HTML, CSS, JavaScript, Reactjs/Nextjs, TailWindCSS, Git, and GitHub.
 - 😊 I’m open to Open Source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front Developer(Intern or Junior level).
