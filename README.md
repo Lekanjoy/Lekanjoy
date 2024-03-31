@@ -9,8 +9,7 @@ I'm a Frontend Developer. I love building interactive web pages and solving prob
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm an alumnus of [AltSchoolAfrica](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 🌱 My Tech stacks are HTML, CSS, JavaScript, Typescript, Reactjs/Nextjs, TailWindCSS, Git, and GitHub.
-- 😊 I’m open to Open Source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Front Developer(Intern or Junior level).
+- 😊 I’m open to Open Source projects, hackathons, and other Frontend roles.
 - 📫 You can view my [resume](https://drive.google.com/file/d/1zG1mdo60aMc5EbT02c5BWpxEALVI3efq/view?usp=drivesdk) and contact me by emailing alabilekanemmanuel@gmail.com.
 
 ---
